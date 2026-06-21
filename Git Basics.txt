@@ -1,0 +1,12 @@
+Git Hub Basics
+
+Repositories
+
+Public Repositories - publically available
+Private Repositories - you would require token or access to particular email id.
+
+git client
+gitbash
+
+
+
